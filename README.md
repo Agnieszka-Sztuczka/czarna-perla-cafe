@@ -1,4 +1,4 @@
-# Czarna Perła Café 🍵
+# Czarna Perła Café
 
 Projekt laboratoryjny – profesjonalna strona internetowa kawiarni.
 
