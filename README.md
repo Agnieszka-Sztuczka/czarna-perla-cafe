@@ -1,13 +1,13 @@
-# Czarna Perła Café
+# Czarna Perła Café 🍵
 
 Projekt laboratoryjny – profesjonalna strona internetowa kawiarni.
 
-# Technologie
+## Technologie
 - HTML
 - CSS
 - JavaScript
 
-# Opis
+## Opis
 Strona kawiarni "Czarna Perła" zawiera:
 - Sekcję hero z animacją
 - Menu z zakładkami (JavaScript)
@@ -15,9 +15,9 @@ Strona kawiarni "Czarna Perła" zawiera:
 - Formularz kontaktowy z walidacją (JavaScript)
 - Responsywny design (mobile)
 
-# Autor
+## Autor
 Agnieszka Sztuczka
 
-# GitHub Pages
+## GitHub Pages
 Strona dostępna pod adresem:
 https://agnieszka-sztuczka.github.io/NAZWA-REPOZYTORIUM/
